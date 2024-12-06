@@ -42,7 +42,7 @@
 
 **Google Dorks**: Advanced search technique that uses specific operators to find detailed information on websites. 
 
-![image.png](image.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image.png)
 
 **Creation of a Digital Identity:** The goal is to generate trust in research environments such as forums or markets where compromised information is shared:
 
