@@ -61,9 +61,9 @@ A well-configured SIEM provides:
     - **Configurable resources:** Resource consumption adjusts to event load and infrastructure needs, making it adaptable to networks of varying sizes.
 - **QRadar (WinCollect):** Collects logs locally on Windows devices or from other devices over the network, enabling integration into distributed architectures.
 
-![image.png](image2.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image2.png))
 
-![image.png](image3.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image3.png)
 
 **Log Collection Process:**
 
@@ -96,7 +96,7 @@ A well-configured SIEM provides:
     - **NAS (Network Attached Storage):** Storage accessible through the network, acting as a centralized file server. It is scalable and allows shared access by multiple devices, using protocols like CIFS, NFS, or TFTP.
     - **SAN (Storage Area Network):** A high-speed network (fiber optic) dedicated to storage. It provides large capacity, high performance, and scalability without affecting the main network traffic, ideal for environments requiring fast and massive access to critical data.
 
-![image.png](image4.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image4.png)
 
 - **Storage Architectures:**
     - **Disaster Recovery (DR):** Data duplication to a second storage point to ensure service recovery after a disaster. Requires a **recovery plan** to minimize downtime, protecting against natural disasters, power failures, cyberattacks, hardware failures, and terrorism.
@@ -145,7 +145,7 @@ A well-configured SIEM provides:
 - Endpoint integration
 - Reporting requirements to comply with regulations
 
-![2024-gartner-siem-mq-AI-img.png](image11.png)
+![2024-gartner-siem-mq-AI-img.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image11.png)
 
 **Security Incident**: An event that compromises the **CIA** (Confidentiality, Integrity, or Availability) of information. Identifying a security incident requires preliminary system analysis to assess the event's impact and severity.
 
@@ -257,16 +257,16 @@ A well-configured SIEM provides:
 - **Graphical Components / Items**:
     - **Distribution Charts / Bar Charts / Pie Charts**: Represent trends and proportions of events.
 
-![image.png](image5.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image5.png)
 
-![image.png](image6.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image6.png)
 
-![image.png](image7.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image7.png)
 
 - **Tables**: Offer higher detail levels, showing specifics such as the number of events per technology.
 - **Geolocation Maps**: Leverage data enrichment (e.g., IP geolocation) to display key event destinations collected.
 
-![image.png](image8.png)
+![image.png](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image8.png)
 
 **Reports**: Detailed documents about system, user, or key security activities. Unlike dashboards, they provide static, structured information, ideal for audiences requiring in-depth data analysis.
 
@@ -450,7 +450,7 @@ A well-configured SIEM provides:
     - **Strategy (X-axis)**: Considers partnerships, roadmap, deployment model, and pricing.
     - **Market Presence**: Indicated by the size of the bubbles, based on customers, revenue, and satisfaction.
 
-![Security Analytics Platforms 2022](image10.png)
+![Security Analytics Platforms 2022](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image10.png)
 
 Security Analytics Platforms 2022
 
@@ -460,7 +460,7 @@ Security Analytics Platforms 2022
     - **Ability to Execute (Y-axis)**: Assesses user experience, support, sales, after-sales service, and market presence.
     - **Vision (X-axis)**: Examines marketing strategy, sales, innovation, product development, and sector adaptability.
 
-![Security Information and Event Management 2024](image11.png)
+![Security Information and Event Management 2024](https://github.com/Pablo-NR/Cybersecurity-Master/blob/main/Images/image11.png)
 
 Security Information and Event Management 2024
 
